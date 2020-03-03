@@ -1,8 +1,8 @@
-# Introduction to Python
+# Python Data Science Toolbox (Part 1)
 
 ## Table of Contents
 
-- [Introduction to Python](#introduction-to-python)
+- [Python Data Science Toolbox (Part 1)](#python-data-science-toolbox-part-1)
   - [Table of Contents](#table-of-contents)
   - [**Writing your own functions**](#writing-your-own-functions)
     - [User-defined functions](#user-defined-functions)
